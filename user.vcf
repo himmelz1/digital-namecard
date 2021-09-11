@@ -7,7 +7,7 @@ ORG:Singapore Manufacturing Federation;
 TITLE:Secretary General
 EMAIL;type=INTERNET;type=WORK;type=pref:lawrence.pek@smfederation.org.sg
 TEL;type=WORK;type=VOICE:+65 9833 4848
-item1.ADR;type=WORK;type=pref:;;2985 Jalan Bukit Merah\n;159457;Singapore
+item1.ADR;type=WORK;type=pref:;;2985 Jalan Bukit Merah\n;;;159457;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:smfederation.org.sg
 item2.X-ABLabel:_$!<HomePage>!$_

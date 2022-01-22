@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Pek;Lawrence;;;
-FN: Lawrence  Pek 
+N:Tay;Jocelin;;;
+FN: Jocelin Tay 
 ORG:Singapore Manufacturing Federation;
-TITLE:Secretary General
-EMAIL;type=INTERNET;type=WORK;type=pref:lawrence.pek@smfederation.org.sg
-TEL;type=WORK;type=VOICE:+65 9833 4848
+TITLE:Senior Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:jocelin.tay@smfederation.org.sg
+TEL;type=WORK;type=VOICE:+65 9781 8206
 item1.ADR;type=WORK;type=pref:;;2985 Jalan Bukit Merah\n;;;159457;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.smfederation.org.sg
